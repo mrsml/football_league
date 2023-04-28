@@ -3,7 +3,7 @@ A league creator
 
 Just navigate to project directory and run command:
 
-> uvicorn league:app --reload --port 8080
+> uvicorn league:app --port 8080
 
 Then you can send a POST request from any source to:
 
